@@ -15,6 +15,7 @@ Power BI, Power Query
 
 ### KPI Requirements
 1.Total No Of Calls : We need to track and display the total number of calls received by our call center over a specified period.
+
 2.Total Call Duration in Hours : It is crucial to understand the total amount of time our call center staff spends on calls in hours, which can help us in resources allocation and capacity planning.
 
 3.Total Call Duration in Minutes : Similar to the total call duration in hours,this KPI provides the total call time but in minutes,offering a more granular  view of call durations.
@@ -23,9 +24,13 @@ Power BI, Power Query
 
 ### CHARTS REQUIREMENTS
 1.	Customer Satisfaction Score (Table) : A table that shows CSAT (Customer Satisfaction Score) by Statewise.
+   
 2.	Call Reason By Total Calls (Stacked Bar Chart) : Stacked bar chart that visualizes the total number of calls done for which purposes.
+   
 3.	Total calls by Sentiments (Stacked Column Chart) : Utilized a column chart to illustrate the distribution of calls by sentiment (Ex: Negative ,Positive,Neutral.)
+   
 4.	Total Calls By Channel (Donut Chart) : Create a donut chart to show the distribution of calls by different communication channel.
+   
 5.	Total Call by State (Map Chart) : Create Map chart that visualizes the total number of calls received from different state.
 
 ## Conclusion:
