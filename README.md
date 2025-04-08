@@ -1,6 +1,6 @@
 # Call_Center_Dashboard
 
-# Table Of Contents
+## Table Of Contents
 
 Project Overview:
 This dataset provides a comprehensive view of call center operations, including details on call volume, call duration, agent performance, customer satisfaction, and call resolution status. It helps monitor key performance indicators (KPIs) such as average handling time (AHT), first call resolution (FCR), service level, and agent productivity. The dataset enables real-time tracking and analysis to support decision-making, improve efficiency, and enhance customer experience.
