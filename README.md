@@ -15,7 +15,6 @@ Power BI, Power Query
 
 ### KPI Requirements
 1.Total No Of Calls : We need to track and display the total number of calls received by our call center over a specified period.
-
 2.Total Call Duration in Hours : It is crucial to understand the total amount of time our call center staff spends on calls in hours, which can help us in resources allocation and capacity planning.
 
 3.Total Call Duration in Minutes : Similar to the total call duration in hours,this KPI provides the total call time but in minutes,offering a more granular  view of call durations.
